@@ -147,16 +147,7 @@ body {
     display: none;
 }
 @media screen and (max-width: 1300px) {
-    #allcard {
+    #pianoa {
         display: none;
-    }
-    .emptyarea {
-        display: block;
-        width: 100%;
-        height: 100px;
-        text-align: center;
-        font-size: 30px;
-        color: #ff1d00;
-        font-weight: bolder;
     }
 }
