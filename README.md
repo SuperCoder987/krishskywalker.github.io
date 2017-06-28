@@ -1,1 +1,0 @@
-# krishskywalker.github.io
