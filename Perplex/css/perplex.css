@@ -159,4 +159,7 @@ body {
     .cards {
         display: none;
     }
+    .contact_me {
+        height: 130px;
+    }
 }
