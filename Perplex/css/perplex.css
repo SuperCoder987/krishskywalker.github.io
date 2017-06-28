@@ -153,4 +153,10 @@ body {
     .allcard {
         display: none;
     }
+    .card {
+        display: none;
+    }
+    .cards {
+        display: none;
+    }
 }
